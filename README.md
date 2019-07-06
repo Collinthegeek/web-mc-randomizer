@@ -9,5 +9,5 @@ This uses web.py http://webpy.org/docs/0.3/tutorial
 https://www.youtube.com/watch?v=3JEXAZOrykQ
 
 Collin Norwood 2019
-tweaking, republishing, rewriting, etc of my work in this repository is permitted provided this notice is perserved
 
+hosting/republishing altered or unchanged versions of my files in this repository is permitted provided this notice is perserved
