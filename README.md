@@ -6,6 +6,8 @@ I wrote only main.py, Sethbling wrote randomize.py and Mojang wrote loot_tables/
 
 This uses web.py http://webpy.org/docs/0.3/tutorial
 
+You could easily make this a lot better and add plenty of useful features
+
 https://www.youtube.com/watch?v=3JEXAZOrykQ
 
 Collin Norwood 2019
